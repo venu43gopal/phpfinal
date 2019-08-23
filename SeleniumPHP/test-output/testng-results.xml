@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-08-23T03:47:15Z" name="Default suite" finished-at="2019-08-23T03:47:29Z" duration-ms="13693">
+  <suite started-at="2019-08-23T05:11:04Z" name="Suite" finished-at="2019-08-23T05:11:20Z" duration-ms="15918">
     <groups>
     </groups>
-    <test started-at="2019-08-23T03:47:15Z" name="Default test" finished-at="2019-08-23T03:47:29Z" duration-ms="13693">
+    <test started-at="2019-08-23T05:11:04Z" name="Test" finished-at="2019-08-23T05:11:20Z" duration-ms="15918">
       <class name="SeleniumPHP.SeleniumPHP.TestNGPHP">
-        <test-method is-config="true" signature="launch()[pri:0, instance:SeleniumPHP.SeleniumPHP.TestNGPHP@17c1bced]" started-at="2019-08-22T21:47:15Z" name="launch" finished-at="2019-08-22T21:47:22Z" duration-ms="6949" status="PASS">
+        <test-method is-config="true" signature="launch()[pri:0, instance:SeleniumPHP.SeleniumPHP.TestNGPHP@17c1bced]" started-at="2019-08-22T23:11:04Z" name="launch" finished-at="2019-08-22T23:11:14Z" duration-ms="9100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="Test()[pri:0, instance:SeleniumPHP.SeleniumPHP.TestNGPHP@17c1bced]" started-at="2019-08-22T21:47:22Z" name="Test" finished-at="2019-08-22T21:47:23Z" duration-ms="326" status="PASS">
+        <test-method signature="Test()[pri:0, instance:SeleniumPHP.SeleniumPHP.TestNGPHP@17c1bced]" started-at="2019-08-22T23:11:14Z" name="Test" finished-at="2019-08-22T23:11:14Z" duration-ms="391" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:SeleniumPHP.SeleniumPHP.TestNGPHP@17c1bced]" started-at="2019-08-22T21:47:23Z" name="afterClass" finished-at="2019-08-22T21:47:29Z" duration-ms="6373" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:SeleniumPHP.SeleniumPHP.TestNGPHP@17c1bced]" started-at="2019-08-22T23:11:14Z" name="afterClass" finished-at="2019-08-22T23:11:20Z" duration-ms="6378" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- SeleniumPHP.SeleniumPHP.TestNGPHP -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
